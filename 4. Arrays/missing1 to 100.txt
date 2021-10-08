@@ -1,0 +1,28 @@
+
+import java.util.*;
+
+
+class FindDuplicateArrayElement2{
+	public static void main(String[] args)
+	{
+ArrayList<String> list=new ArrayList<String>();
+
+ for (int i = 1; i < =100; i++) {
+        list.add(i);
+}
+
+ System.out.println("Before"+ list);
+
+   for (int i = 0; i < list.size(); i++) {
+     for (int j = i + 1 ; j <  list.size(); j++) {
+          if (list.get(i).equals(list.get(j)))
+	{
+                 System.out.println(list.get(i));
+         	 }
+	
+      }
+ }
+
+ 
+
+}}
