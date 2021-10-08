@@ -1,0 +1,6 @@
+
+
+3 : - A method with same name same number of parameters of same type must be defined only once
+5 :- A method with same name same number of parameters of same type but with different return type cannot be defined 
+Or 
+A return type of function cannot be used for method overloading
