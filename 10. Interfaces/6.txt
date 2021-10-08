@@ -1,0 +1,3 @@
+attempting to assign weaker access privileges; was public
+
+Not possible

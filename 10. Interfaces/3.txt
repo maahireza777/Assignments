@@ -1,0 +1,2 @@
+Its not possible to make instance or object for Interface 
+and abstract class.

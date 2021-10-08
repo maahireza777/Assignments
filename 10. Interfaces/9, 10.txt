@@ -1,0 +1,1 @@
+Interface shouldn't be PUBLIC PRIVATE PROTECTED
